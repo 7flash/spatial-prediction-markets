@@ -1,0 +1,9 @@
+[submodule "protocol"]
+	path = protocol
+	url = https://github.com/7flash/spm-protocol.git
+[submodule "app"]
+	path = app
+	url = https://github.com/7flash/spm-app.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/7flash/spm-frontend.git
